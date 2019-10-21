@@ -14,3 +14,6 @@ eureka:
     service-url:
       # EurekaServer的地址
       defaultZone: http://localhost:7001/eureka
+test:
+  message: helloWorld
+  
