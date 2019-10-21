@@ -15,5 +15,5 @@ eureka:
       # EurekaServer的地址
       defaultZone: http://localhost:7001/eureka
 test:
-  message: helloWorld!欢迎来到黑马程序员学习.. 小姐姐在哪里呢?haha
+  message: helloWorld!欢迎来到黑马程序员学习.. 小姐姐在哪里呢?666666
   
